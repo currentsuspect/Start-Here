@@ -1,5 +1,3 @@
-Absolutely, Dylan! Here's your updated GitHub bio:
-
 ---
 
 👋 Hey there! I'm Dylan, your friendly neighborhood code wizard, on a mission to explore the realms of technology and creativity. 🚀
