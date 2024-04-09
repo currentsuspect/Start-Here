@@ -12,53 +12,46 @@ The world is not perfect.
 We have all worked or did somemething we _didn't **love**_. <br />
 We have _all_ felt the _frustration_ of using products that have flaws
 that _we_ were unable to fix ourselves.   
-We have all experienced being in an environment that
+we have all experienced being in an environment that
 _didn't support us_ in doing all we can do in the world.
 **The aim of _EVERRYTHING_ is to address *all* of these issues _simultaneously_:**
 please read our [**mission**](https://github.com/dwyl/start-here/blob/master/mission.md#what-is-dwyls-mission)
 to understand our focus on personal effectiveness
 as the starting point for all positive change.
 
-If you'd like to know more about what we value,
+If you'd like to know more about what I value,
 _please **read our [manifesto](https://github.com/dwyl/start-here/blob/master/manifesto.md)**_.  
  The short version is:
 "_**Treat others as you would like others to treat you**_" ~
 [***The Golden Rule***](https://github.com/dwyl/start-here/blob/master/manifesto.md)
 
 If you want to be part of the solution, join us:
-https://www.dwyl.com
+- Download Obsidian
+- Download this repository : [EVERYTHING](https://github.com/currentsuspect/DYLAN-S-BRAIN)
 
-> If you haven't read **Simon Sinek**'s book "***Start with Why***",
-we *highly recommend* taking a few minutes to watch his **Ted Talk**:
+> If you haven't read **Simon Sinek**'s book "***Start with Why***", I *highly recommend* taking a few minutes to watch his **Ted Talk**:
 https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
 
-## Who?
+## Who Are We?
 
-**dwyl** is a _**rapidly expanding community**_; here are a few
-of the familiar faces contributing to our projects:
+Welcome to **EVERYTHING**, a sanctuary for dreamers, achievers, and those in search of fulfillment. We're not just another GitHub project; we're a movement dedicated to empowering individuals to reach their highest potential and discover the missing pieces in their lives.
 
-[![dwyl-community](https://user-images.githubusercontent.com/194400/28011265-a95f52d4-6559-11e7-823e-6133d947921a.jpg)](https://github.com/dwyl/who)
+### What Drives Us?
 
-[_**Join us**_](#how) in finding a problem you want to **solve** and will
-_**love**_ working on.
+We understand the sensation of emptiness that can linger when you're uncertain of your purpose or direction. It's that yearning for something more, something meaningful, that propels us forward. Whether you're a coder seeking your next big project or someone searching for clarity in life, we're here to support you.
 
-## What?
+### Our Mission
 
-**Q**: What is dwyl?  
-**A**: dwyl (pronounced "[Will](https://www.youtube.com/watch?v=0sxnonO3FXw)" but with a "D" in front of it) is a _community_ of people on a _**mission to change the world using technology**_.
+At **EVERYTHING**, our mission is crystal clear: to serve as a guiding light for anyone feeling lost or adrift. Through a blend of resources, support, and community, we aim to equip individuals with the tools they need to navigate their journey toward fulfillment.
 
-We are _starting_ by making the tools _we_ need to help us (and the people we care about) _get things we love **done**_.
 
-Our first App is [***Time***](https://github.com/dwyl/time) which helps people ***track any time based activity***.
+### Who Is This For?
 
-And we are making ***Everything Open Source*** along the way,
-so that you *too* can **D**o **W**hat **Y**ou **L**ove!   
-We have plans to build *many* other features and we'd *love* you to join us!
+This repository is for the dreamers, the doers, and everyone in between. Whether you're a seasoned developer or someone exploring your passions for the first time, there's a place for you here. If you've ever felt like there's something missing in your life, you've come to the right place.
 
-Here are a few on the roadmap:
-+ [**Tudo**](https://github.com/dwyl/tudo) (_pronounced to-do_) helps you and your team track what you are working on
-+ **When?** syncs calendars and selectively shares availability with others to discover the best time for an activity/event
-- Birthday/Special Event Helper [*AKA* The Card & Gift App]
+### Join Us
+
+So, are you ready to embark on this journey of self-discovery and growth? Join us as we strive to unlock the full potential within ourselves and others. Together, we can turn dreams into reality and fill the void with purpose, passion, and possibility.
 
 What question do _**you**_ want to answer?
 
@@ -69,7 +62,7 @@ This means solving a problem you (or someone _close_ to you) _personally_ have.
 If you don't have any personal experience in a field
 you aren't going to do a good job of spotting/solving a problem in that area.
 
-Taking the _"Business School"_ approach of finding a _"Big Market"_ and then identifying a problem to solve works for some companies,
+Taking the _"Business School"_ approach of finding a _"Big Market"_ and then identifying a problem to solve works for some,
 but we prefer the approach of solving something we are **personally passionate about** _regardless_ of the (size of the) "market".
 
 > Read:
@@ -159,7 +152,7 @@ You can connect your touch-typing practice with learning to code, by using the c
 
 ### How to Learn How to Learn
 
-Software-development is constant learning, so it is useful to think consciously about how one learns.
+Everything is constant learning, so it is useful to think consciously about how one learns.
 
 #### General Thoughts on How to Learn
 
@@ -369,7 +362,7 @@ see: https://github.com/dwyl/technology-stack
 
 [![HitCount](https://hits.dwyl.com/dwyl/start-here.svg?style=flat-square)](https://hits.dwyl.com/dwyl/start-here)
 
-
+**ME**
 ---
 
 👋 Hey there! I'm Dylan, your friendly neighborhood code wizard, on a mission to explore the realms of technology and creativity. 🚀
