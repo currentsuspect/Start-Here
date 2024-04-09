@@ -82,8 +82,7 @@ If you want to get involved with building great tools people love, this section 
 + [ ] **Time** - if you only have _**1 minute**_ there's _something_ you can do _now_!
 + [ ] **Great Google Skills** - the ability to formulate a good question (so you can get a useful answer from Google) is (more than) half the challenge in any ~~coding~~ task
 + [ ] **Self-reliance**: when you get stuck on a task, knowing **when to ask for help** and when to _persevere_ through to find the answer yourself
-  + But don't worry, we're here to help! [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)
-
+  + But don't worry, we're here to help!
 ### What *tools* will I need?
 
 **Access to a computer**, preferably a recent (but not expensive) one (Chromebooks are Great!).  
@@ -91,10 +90,7 @@ That's it.
 
 ### Do I need to Write *Code* to Contribute?
 
-No. _Everyone_ can contribute, from proposing and voting on ideas,
-to simplifying wording to helping people understand our apps.    
-
-Please drop by and tell us what you think! [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)
+No.
 
 ### Setup (_for Coders_)
 
