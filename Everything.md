@@ -1,7 +1,7 @@
 Start Here
 ==========
 
-A Quick-start Guide for people that want to **EVERYTHING**!
+A Quick-start Guide for people that want to start their **EVERYTHING**!
 
 
 > ***Start where you are. Use what you have. Do what you can***.
@@ -9,12 +9,12 @@ A Quick-start Guide for people that want to **EVERYTHING**!
 
 ## Why?
 The world is not perfect.  
-We have all worked somewhere we _didn't **love**_. <br />
+We have all worked or did somemething we _didn't **love**_. <br />
 We have _all_ felt the _frustration_ of using products that have flaws
 that _we_ were unable to fix ourselves.   
 We have all experienced being in an environment that
 _didn't support us_ in doing all we can do in the world.
-**The aim of _dwyl_ is to address *all* of these issues _simultaneously_:**
+**The aim of _EVERRYTHING_ is to address *all* of these issues _simultaneously_:**
 please read our [**mission**](https://github.com/dwyl/start-here/blob/master/mission.md#what-is-dwyls-mission)
 to understand our focus on personal effectiveness
 as the starting point for all positive change.
