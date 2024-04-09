@@ -1,9 +1,8 @@
 Start Here
 ==========
 
-A Quick-start Guide for people that want to **D**o **W**hat **Y**ou **L**ove!
+A Quick-start Guide for people that want to **EVERYTHING**!
 
-![dwyl-logo-wide](https://cloud.githubusercontent.com/assets/194400/8141150/f4b4c854-115a-11e5-8c13-dc96a5f1e928.png)
 
 > ***Start where you are. Use what you have. Do what you can***.
 > ~ [*Arthur Ashe*](https://en.wikipedia.org/wiki/Arthur_Ashe)
