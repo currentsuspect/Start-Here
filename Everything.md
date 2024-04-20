@@ -34,7 +34,7 @@ https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
 
 ## Who Am I?
 
-Welcome to **EVERYTHING**, a sanctuary for dreamers, achievers, and those in search of fulfillment. We're not just another GitHub project; we're a movement dedicated to empowering individuals to reach their highest potential and discover the missing pieces in their lives.
+Welcome to **EVERYTHING**, a sanctuary for dreamers, achievers, and those in search of fulfillment. I'm not just another GitHub project; I'm a movement dedicated to empowering individuals to reach their highest potential and discover the missing pieces in their lives.
 
 ### What Drives Me?
 
@@ -76,7 +76,7 @@ If you want to get involved with building great tools people love, this section 
 + [ ] **Persistence** - "If you wish to be out front, then act as if you were behind.” - Lao Tzu
 + [ ] **Work Ethic** - ["**work super hard** ... _**every waking hour**_"](https://www.youtube.com/watch?v=gpioK1kIRg4) ~ Elon Musk
 + [ ] **Time** - if you only have _**1 minute**_ there's _something_ you can do _now_!
-+ [ ] **Great Google Skills / **a bit of experience in prompt engineering ** - the ability to formulate a good question (so you can get a useful answer from Google) is (more than) half the challenge in any ~~coding~~ task
++ [ ] **Great Google Skills / a bit of experience in prompt engineering ** - the ability to formulate a good question (so you can get a useful answer from Google) is (more than) half the challenge in any ~~coding~~ task
 + [ ] **Self-reliance**: when you get stuck on a task, knowing **when to ask for help** and when to _persevere_ through to find the answer yourself
   + But don't worry, I'm here to help!
 
@@ -330,7 +330,11 @@ Experiences are, by nature, personal, contextual, ephemeral, and affected by thi
  - [The 9 States of Design](https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85?ref=uxhandy)
  - [Find a Great Font Pair](https://fontpair.co/#five)
  - [Make a lovely Colour Palette](https://coolors.co/)
+## Bussiness 
+If you are interested in becoming an entrepreneur or bussiness person here is the guide
 
++  [30 Years of Business Knowledge in 2hrs 26mins](https://www.youtube.com/watch?v=9VlvbpXwLJs)
++  
 ## Ready to Get Involved?
 
 If you want to help improve any aspect of the code, **star :star: this repo on GitHub** and _we will add you to the organisation_.
@@ -342,20 +346,6 @@ see: https://github.com/dwyl/technology-stack
 
 [![HitCount](https://hits.dwyl.com/dwyl/start-here.svg?style=flat-square)](https://hits.dwyl.com/dwyl/start-here)
 
-**ME**
----
-
-👋 Hey there! I'm Dylan, your friendly neighborhood code wizard, on a mission to explore the realms of technology and creativity. 🚀
-
-🎵 When I'm not crafting lines of code, you'll find me jamming to the latest tunes or diving deep into the world of fashion. 💻🎨👕
-
-🧠 As an AI enthusiast, I'm constantly fascinated by the ever-evolving landscape of artificial intelligence and its profound impact on our daily lives. From cutting-edge algorithms to mind-bending neural networks, I'm always eager to delve into the latest breakthroughs. 💡
-
-🌐 With a thirst for knowledge as vast as the internet itself, I'm here to collaborate, innovate, and learn from fellow tech aficionados. Whether it's dissecting complex algorithms or discussing the latest trends in web development, count me in! 💬
-
-💡 Let's connect and embark on a journey of innovation together. Remember, the code is just the beginning! 💡
-
-📧 Feel free to reach out to me via email at makoridylan@gmail.com or connect with me on Instagram https://www.instagram.com/currentsuspect. Let's chat! 📱
 
 ---
 
