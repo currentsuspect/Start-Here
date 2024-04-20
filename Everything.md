@@ -334,17 +334,7 @@ Experiences are, by nature, personal, contextual, ephemeral, and affected by thi
 If you are interested in becoming an entrepreneur or bussiness person here is the guide
 
 +  [30 Years of Business Knowledge in 2hrs 26mins](https://www.youtube.com/watch?v=9VlvbpXwLJs)
-+  
-## Ready to Get Involved?
-
-If you want to help improve any aspect of the code, **star :star: this repo on GitHub** and _we will add you to the organisation_.
-
-## Curious about what technology we are using?
-
-If you want to know more about the **Technology** "_**Stack**_" we are using  
-see: https://github.com/dwyl/technology-stack
-
-[![HitCount](https://hits.dwyl.com/dwyl/start-here.svg?style=flat-square)](https://hits.dwyl.com/dwyl/start-here)
+  
 
 
 ---
