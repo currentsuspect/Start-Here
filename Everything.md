@@ -32,26 +32,22 @@ If you want to be part of the solution, join us:
 > If you haven't read **Simon Sinek**'s book "***Start with Why***", I *highly recommend* taking a few minutes to watch his **Ted Talk**:
 https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
 
-## Who Are We?
+## Who Am I?
 
 Welcome to **EVERYTHING**, a sanctuary for dreamers, achievers, and those in search of fulfillment. We're not just another GitHub project; we're a movement dedicated to empowering individuals to reach their highest potential and discover the missing pieces in their lives.
 
-### What Drives Us?
+### What Drives Me?
 
-We understand the sensation of emptiness that can linger when you're uncertain of your purpose or direction. It's that yearning for something more, something meaningful, that propels us forward. Whether you're a coder seeking your next big project or someone searching for clarity in life, we're here to support you.
+All my life i have been on the search for something that will just flick the switch in my life and so i decided to document it all here...everything i learned experienced and went through and what answers i found. I'm driven by the hunger to understand, learn and find new things, evolve in life and live life as best as i know how to and i hope to change someone elses perception on life.
 
 ### Our Mission
 
-At **EVERYTHING**, our mission is crystal clear: to serve as a guiding light for anyone feeling lost or adrift. Through a blend of resources, support, and community, we aim to equip individuals with the tools they need to navigate their journey toward fulfillment.
+At **EVERYTHING**, our mission is crystal clear: to serve as a guiding light for anyone feeling lost or adrift. Through a blend of resources, we aim to equip individuals with the tools they need to navigate their journey toward fulfillment.
 
 
 ### Who Is This For?
 
-This repository is for the dreamers, the doers, and everyone in between. Whether you're a seasoned developer or someone exploring your passions for the first time, there's a place for you here. If you've ever felt like there's something missing in your life, you've come to the right place.
-
-### Join Us
-
-So, are you ready to embark on this journey of self-discovery and growth? Join us as we strive to unlock the full potential within ourselves and others. Together, we can turn dreams into reality and fill the void with purpose, passion, and possibility.
+This repository is for the dreamers, the doers, and everyone in between. Whether you're someone exploring your passions for the first time,or you have a direction and just want to listen to someone elses perspective, there's a place for you here. If you've ever felt like there's something missing in your life, you've come to the right place.
 
 What question do _**you**_ want to answer?
 
@@ -63,7 +59,7 @@ If you don't have any personal experience in a field
 you aren't going to do a good job of spotting/solving a problem in that area.
 
 Taking the _"Business School"_ approach of finding a _"Big Market"_ and then identifying a problem to solve works for some,
-but we prefer the approach of solving something we are **personally passionate about** _regardless_ of the (size of the) "market".
+but I prefer the approach of solving something we are **personally passionate about** _regardless_ of the (size of the) "market".
 
 > Read:
 https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
@@ -80,9 +76,10 @@ If you want to get involved with building great tools people love, this section 
 + [ ] **Persistence** - "If you wish to be out front, then act as if you were behind.” - Lao Tzu
 + [ ] **Work Ethic** - ["**work super hard** ... _**every waking hour**_"](https://www.youtube.com/watch?v=gpioK1kIRg4) ~ Elon Musk
 + [ ] **Time** - if you only have _**1 minute**_ there's _something_ you can do _now_!
-+ [ ] **Great Google Skills** - the ability to formulate a good question (so you can get a useful answer from Google) is (more than) half the challenge in any ~~coding~~ task
++ [ ] **Great Google Skills / **a bit of experience in prompt engineering ** - the ability to formulate a good question (so you can get a useful answer from Google) is (more than) half the challenge in any ~~coding~~ task
 + [ ] **Self-reliance**: when you get stuck on a task, knowing **when to ask for help** and when to _persevere_ through to find the answer yourself
-  + But don't worry, we're here to help!
+  + But don't worry, I'm here to help!
+
 ### What *tools* will I need?
 
 **Access to a computer**, preferably a recent (but not expensive) one (Chromebooks are Great!).  
@@ -91,17 +88,6 @@ That's it.
 ### Do I need to Write *Code* to Contribute?
 
 No.
-
-### Setup (_for Coders_)
-
-If you want to start writing `code` _now_ and don't already have your machine set up, see: https://github.com/dwyl/dev-setup
-
-We also have a [***new developer checklist***](https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md) which  we _encourage_ you to review on the various online services you should know about and set yourself up on:  
-https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md
-
-## Web Development *Fun*damentals
-
-We have listed the skills you need to know in the _order_ you need to learn them.
 
 ### Basic Computer Skills
 
@@ -115,12 +101,10 @@ If all else fails, *restart* your computer and try again (that's what _**everyon
 
 ### Touch Typing
 
-_**Before**_ you dive into programming, learning how to touch-type on your
+_**Before**_ try learning how to touch-type on your
 computer is the *single* _**best investment**_ you can make.
 All this means is _practising_ typing with the "correct fingers" until you don't have to think about where the keys are.
 Some of the best programmers we know can type faster than most people can _think_ ... take a moment for that to settle in.
-
-[![playing piano blindfolded](https://i.imgur.com/4dzAeSz.jpg)](https://www.youtube.com/watch?v=Z-iyiWHI2nA "playing piano blindfolded")
 
 You need to be able to **type blindfolded** to become a true maestro (at anything computer-related).
 
@@ -161,7 +145,7 @@ The following articles by [Blaz Kos](https://agileleanlife.com/blaz-kos/) from A
 + [How to study, learn & master things faster than people with the highest IQ](https://agileleanlife.com/how-to-study-and-learn/): not many have consciously thought about how they go about learning.
 + [Learning is useless, validated learning is everything](https://agileleanlife.com/validated-learning/): thinking of how to validate one's learning, improves the learning.
 
-We feel socially obligated to mention Richard Feynman:
+I feel socially obligated to mention Richard Feynman:
 
 + [The Feynman Technique: The Best Way to Learn Anything]( https://fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/)
 + [The Feynman Method to Learn to Code Faster](https://medium.com/@benjaminlezama/the-feynman-method-to-learn-to-code-faster-69b628115be3)
@@ -187,7 +171,7 @@ Here we present more specific information about learning how to learn and your s
 
 #### Specific Advice about Learning Programming
 
-Here we present specific advice on learning programming. Remember to type out code by hand!:
+Here I present specific advice on learning programming. Remember to type out code by hand!:
 
 + [How to quickly and effectively read other people’s code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/): one of those strange things is almost no one speaks about *reading* code.
 + [The most effective technique for learning to code may surprise you](https://www.huffingtonpost.com/entry/the-most-effective-technique-for-learning-to-code-may_us_57c1d3e0e4b0b01630df54ac): Seperating the description of a solution from its implementation, with applications to pair programming, and programming alone.
