@@ -26,7 +26,7 @@ _please **read our [manifesto](https://github.com/dwyl/start-here/blob/master/ma
 [***The Golden Rule***](https://github.com/dwyl/start-here/blob/master/manifesto.md)
 
 If you want to be part of the solution, join us:
-- Download Obsidian
+- Download Obsidian [OBSIDIAN](https://obsidian.md/download)
 - Download this repository : [EVERYTHING](https://github.com/currentsuspect/DYLAN-S-BRAIN)
 
 > If you haven't read **Simon Sinek**'s book "***Start with Why***", I *highly recommend* taking a few minutes to watch his **Ted Talk**:
@@ -76,7 +76,7 @@ If you want to get involved with building great tools people love, this section 
 + [ ] **Persistence** - "If you wish to be out front, then act as if you were behind.” - Lao Tzu
 + [ ] **Work Ethic** - ["**work super hard** ... _**every waking hour**_"](https://www.youtube.com/watch?v=gpioK1kIRg4) ~ Elon Musk
 + [ ] **Time** - if you only have _**1 minute**_ there's _something_ you can do _now_!
-+ [ ] **Great Google Skills / a bit of experience in prompt engineering ** - the ability to formulate a good question (so you can get a useful answer from Google) is (more than) half the challenge in any ~~coding~~ task
++ [ ] **Great Google Skills / a bit of experience in prompt engineering** - the ability to formulate a good question (so you can get a useful answer from Google) is (more than) half the challenge in any ~~coding~~ task
 + [ ] **Self-reliance**: when you get stuck on a task, knowing **when to ask for help** and when to _persevere_ through to find the answer yourself
   + But don't worry, I'm here to help!
 
